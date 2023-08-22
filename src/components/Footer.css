@@ -1,0 +1,410 @@
+.head8 .head{
+    color:white;
+    margin-left:-60%;
+    /* margin-top:11%; */
+    text-align:center;
+}
+.footer1 .para{
+    color:orange;
+    margin-top :-0.3em; 
+    /* margin-top:-5%; */
+    margin-left:-60%;
+    font-size:220%
+}
+.heads{
+    margin-left:-60%;
+    color:white;
+}
+
+.footer1 .para2{
+    color:white;
+    margin-left:-60%;
+    margin-top:3%;
+ 
+}
+.footer1 {
+    
+    margin-top:5%;
+ 
+}
+
+.para4{
+    color:rgb(176, 174, 174);
+
+}
+.para5{
+    color:rgb(176, 174, 174);
+
+}
+
+.head2{
+    margin-top :-8%; 
+}
+.hh{
+    margin-left:30%;
+    margin-top :-12%; 
+}
+.hh1{
+    margin-left:60%;
+    margin-top :-9%;  
+}
+.para3{
+    color:rgb(176, 174, 174);
+
+}
+.para6 h5{
+    color:orange;
+}
+
+.para51 {
+    position: relative;
+    text-decoration: none;
+  }
+
+.para51::after{
+
+
+
+    content: '';
+  position: absolute;
+  width: 10%;
+  height: 2px;
+  
+  bottom: 0;
+  margin-left: -7%;
+  background-color: #ffff00;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+
+}
+
+.para51::after{
+
+    transform: scaleX(0);
+  }
+
+  .para51:hover::after {
+    color:white;
+    transform: scaleX(1);
+  }
+  
+  .para51:hover::after {
+    color:white;
+    transform-origin: bottom left;
+  }
+  .para51:hover{
+    color:white;
+}
+
+.para52:hover{
+    color:white;
+}
+
+.para52 {
+    position: relative;
+    /* color: #FFFFFF; */
+    text-decoration: none;
+  }
+
+.para52::after{
+
+    /* text-decoration:underline; */
+
+
+    content: '';
+  position: absolute;
+  width: 10%;
+  height: 2px;
+  
+  bottom: 0;
+  margin-left: -9%;
+  background-color: #ffff00;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+
+}
+
+.para52::after{
+
+    transform: scaleX(0);
+  }
+
+  .para52:hover::after {
+    color:white;
+    transform: scaleX(1);
+  }
+  
+  .para52:hover::after {
+    color:white;
+    transform-origin: bottom left;
+  }
+.head21:hover{
+    color:white;
+}
+.head22:hover{
+    color:white;
+}
+.head23:hover{
+    color:white;
+}
+@media screen and (max-width:1200px){
+    .head2{
+        margin-top:5%;
+        margin-left:-65%;
+    }
+    .para4{
+        /* margin-top:5%; */
+        margin-left:-65%;
+    }
+    .hh{
+        margin-top:-13%;
+        margin-left:-15%;
+    }
+    .hh1{
+        margin-top:-10%;
+        margin-left:35%;
+    }
+    .icon2{
+        margin-left:-58%;
+        font-size:26px;
+        margin-top:-5%
+
+    }
+    .icon1{
+        margin-left:-58%;
+    }
+}
+@media screen and (max-width:1150px){
+    .hh1{
+        margin-top:-16%;
+    }
+    .hh{
+        margin-top:-26%;
+    }
+    .icon2{
+       display:none;
+
+    }
+}
+@media screen and (max-width:1100px){
+    .hh1{
+        margin-top:-29%;
+    }
+    .hh{
+        margin-top:-18%;
+    }
+   
+    .footer1 .para2{
+        margin-left:-40%;
+    }
+    .icon2{
+        display:none    
+        }
+  
+}
+@media screen and (max-width:850px){
+    .hh1{
+        margin-top:-38%;
+    }
+    .hh{
+        margin-top:-19%;
+    } 
+    
+    .icon2{
+        display:none    
+        }
+}
+
+@media screen and (max-width:800px){
+    .hh1{
+        margin-top:-17%;
+    }
+    .hh{
+        margin-top:-21%;
+    } 
+    .icon2{
+        display:none    
+        }
+}
+@media screen and (max-width:740px){
+    .hh1{
+        margin-top:-20%;
+    }
+    .hh{
+        margin-top:-24%;
+    } 
+  
+ .footer1 .heads{
+    margin-left:-50%
+  }.icon2{
+    display:none    
+    }
+}
+@media screen and (max-width:650px){
+    .hh1{
+        margin-top:-22%;
+    }
+    .hh{
+        margin-top:-26%;
+    } 
+  
+ .footer1 .heads{
+    margin-left:-40%
+  }
+  .footer1 .para2{
+    margin-left:-30%;
+}
+/* .icon2{
+    display:none    
+    } */
+}
+@media screen and (max-width:530px){
+    .hh1{
+        margin-top:-24%;
+    }
+    .hh{
+        margin-top:-30%;
+    } 
+  
+ .footer1 .heads{
+    margin-left:-40%
+  }
+  .footer1 .para2{
+    margin-left:-20%;
+}
+.icon2{
+display:none    
+}
+
+}
+@media screen and (max-width:1255px){
+    .hh1{
+        margin-top:-10%;
+    }
+    .hh{
+        margin-top:-12%;
+    } 
+}
+@media screen and (max-width:1100px){
+    .hh1{
+        margin-top:-15%;
+    }
+    .hh{
+        margin-top:-15%;
+    } 
+}
+
+@media screen and (max-width:600px){
+    .hh1{
+        margin-top:-24%;
+    }
+    .hh{
+        margin-top:-25%;
+    } 
+    .footer1 .para2{
+        margin-left:3%;
+    }
+    .footer1 .para{
+        margin-left:3%;
+    }
+    .footer1 .heads{
+        margin-left:3%;
+    }
+}
+@media screen and (max-width:550px){
+    .hh1{
+        margin-top:-24%;
+    }
+    .hh{
+        margin-top:-25%;
+    } 
+    .footer1 .para2{
+        margin-left:3%;
+    }
+    .footer1 .para{
+        margin-left:-43%;
+    }
+    .footer1 .heads{
+        margin-right:-13%;
+  
+    }
+}
+@media screen and (max-width:771px){
+    .hh1{
+        margin-top:-17%;
+    }
+    .hh{
+        margin-top:-21%;
+    } 
+    .footer1 .heads{
+        margin-left:-48%;
+    }
+}
+ 
+@media screen and (max-width:500px){
+    .hh1{
+        margin-top:-28%;
+    }
+    .hh{
+        margin-top:-30%;
+    } 
+    .footer1 .para2{
+        margin-left:3%;
+    }
+    .footer1 .para{
+        margin-left:3%;
+    }
+    .footer1 .heads{
+        margin-left:3%;
+    }
+  
+}
+@media screen and (max-width:450px){
+    .hh1{
+        margin-top:-33%;  margin-left:53%;
+    }
+    .hh{
+        margin-top:-35%;margin-left:-4%;
+    } 
+    .footer1 .para2{
+        margin-left:3%;
+    }
+    .footer1 .para{
+        margin-left:3%;
+    }
+    .footer1 .heads{
+        margin-left:3%;
+    }
+  
+}@media screen and (max-width:380px){
+    .hh1{
+        margin-top:-33%;  margin-left:63%;
+    }
+    .hh{
+        margin-top:-47%;margin-left:-4%;
+    } 
+    .footer1 .para2{
+        margin-left:3%;
+    }
+    .footer1 .para{
+        margin-left:3%; font-size:150%
+    }
+    .footer1 .heads{
+        margin-left:-3%;
+        font-size:150%
+    }
+  
+}
+
+.back{
+    background-color: rgb(69, 69, 70);
+    height: 100px;
+    margin-top: 9%;
+    color: rgb(173, 178, 178);
+}
+.backp {
+    margin-left: -75%;
+}
+.back1 .backp{
+    margin-top: 6%;
+}

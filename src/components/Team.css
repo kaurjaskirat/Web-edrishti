@@ -1,0 +1,199 @@
+.paraaa{
+    color:orange;
+    margin-left:-70%;
+    font-weight:bold;
+    font-size:1px
+    }
+    .paraaaa{
+        color:orange;
+        margin-left:-70%;
+        font-weight:bold;
+        margin-top:5%
+        }
+    .hee{
+        width:25%;
+        margin-left:9%;
+    
+    }
+    .paraa1{
+        margin-top:-6%;
+        width:50%;
+        margin-left: 45%;
+    }
+    .container1{
+        width: 100%;
+        height:450px;
+        margin-top: 12%;
+        background-color: rgb(222, 216, 216);
+    }
+    .card1{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 13%;
+        margin-top: 7%;
+        transition: transform .2s
+    }
+    .card1 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card1 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+    .card2{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 38%;
+        margin-top: -24%;transition: transform .2s
+    }
+    .card2 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card2 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+
+    .card3{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 63%;
+        margin-top: -24%;transition: transform .2s
+    }
+    .card3 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card3 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+
+    .card4{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 13%;
+        margin-top: 4%;transition: transform .2s
+    }
+    .card4 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card4 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+
+
+    .card5{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 38%;
+        margin-top: -24%;transition: transform .2s
+    }
+    .card5 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card5 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+
+    .card6{
+        width: 20%;
+        height:350px;
+        background-color: white;
+        margin-left: 63%;
+        margin-top: -24%;transition: transform .2s
+    }
+    .card6 .pic1 img{
+        width: 100%;
+        height:250px;
+    }
+    .card6 .tp1{
+        color:grey;
+        font-weight:bold;
+    }
+
+
+
+    .card1 img:hover
+   {
+        transform: scale(0.9);
+     
+    }
+    .card2 img:hover
+    {
+         transform: scale(0.9);
+      
+     }
+     .card3 img:hover
+     {
+          transform: scale(0.9);
+       
+      }
+      .card4 img:hover
+      {
+           transform: scale(0.9);
+       }
+       .card5 img:hover
+       {
+            transform: scale(0.9);
+        }
+        .card6 img:hover
+        {
+             transform: scale(0.9);
+         }
+      /* .vid{
+        margin-top: -10%;
+        background: transparent;
+        z-index:1;
+        height:470px;
+        width:100%;
+        color:black
+      } */
+      .video2{
+        opacity:0.7;
+      }
+
+      .slider{
+        margin-top: -30%;
+        margin-left: 30%;
+        width: 70%;
+        height: 320px;
+      }
+.s1{
+    background-color: white;
+    width: 0%;
+    height: 250px;
+}
+.s2{
+    background-color: white;
+    margin-left: 4%;
+    height: 250px;
+}
+.s3{
+    background-color: white;
+    margin-left: 9%;
+    height: 250px;
+}
+.s4{
+    background-color: white;
+    margin-left: 13%;
+    height: 250px;
+}
+.side{
+ margin-left: -140%;
+ margin-top: -28%;
+}
+.th1:hover{
+    font-size: 27px;
+}
