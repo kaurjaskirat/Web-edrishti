@@ -55,3 +55,26 @@ color: orangered;
     border-bottom: 1px solid rgba(0,0,0,0.3);
     outline: none;
  }
+ .ch{
+   margin-left:-60%;
+ }
+ @media screen and (max-width:735px){
+   .ch{
+      margin-left: -40%;
+   }
+ } @media screen and (max-width:545px){
+  .conp{
+   margin-top: -50%;
+   display: none;
+  }
+  .contact__form-tag1{
+   margin-top: -65%;
+  }.contact__form-div .cp{
+  display: none;
+  }
+  .cb button{
+margin-top: 10%;
+  } .contact_form-div-contact_form-area .tag2{
+   width: 50%;
+  }
+ }

@@ -35,18 +35,22 @@
 .para5{
     color:rgb(176, 174, 174);
 
+}.icon1{
+    margin-left: -10%;
+}.icon2{
+    margin-left: -15%;
 }
 
 .head2{
     margin-top :-8%; 
 }
 .hh{
-    margin-left:30%;
-    margin-top :-12%; 
+    margin-left:27%;
+    margin-top :-9%; 
 }
 .hh1{
-    margin-left:60%;
-    margin-top :-9%;  
+    margin-left:55%;
+    margin-top :-7%;  
 }
 .para3{
     color:rgb(176, 174, 174);
@@ -147,6 +151,8 @@
 .head23:hover{
     color:white;
 }
+
+
 @media screen and (max-width:1200px){
     .head2{
         margin-top:5%;
@@ -172,8 +178,9 @@
     }
     .icon1{
         margin-left:-58%;
-    }
-}
+    }.back{
+        display: none;
+    }}
 @media screen and (max-width:1150px){
     .hh1{
         margin-top:-16%;
@@ -185,6 +192,7 @@
        display:none;
 
     }
+  
 }
 @media screen and (max-width:1100px){
     .hh1{
@@ -276,6 +284,7 @@
 display:none    
 }
 
+
 }
 @media screen and (max-width:1255px){
     .hh1{
@@ -287,7 +296,7 @@ display:none
 }
 @media screen and (max-width:1100px){
     .hh1{
-        margin-top:-15%;
+        margin-top:-13%;
     }
     .hh{
         margin-top:-15%;
@@ -296,7 +305,7 @@ display:none
 
 @media screen and (max-width:600px){
     .hh1{
-        margin-top:-24%;
+        margin-top:-22%;
     }
     .hh{
         margin-top:-25%;
@@ -311,12 +320,12 @@ display:none
         margin-left:3%;
     }
 }
-@media screen and (max-width:550px){
+@media screen and (max-width:540px){
     .hh1{
-        margin-top:-24%;
+        margin-top:-39%;
     }
     .hh{
-        margin-top:-25%;
+        margin-top:-27%;
     } 
     .footer1 .para2{
         margin-left:3%;
@@ -331,7 +340,7 @@ display:none
 }
 @media screen and (max-width:771px){
     .hh1{
-        margin-top:-17%;
+        margin-top:-14%;
     }
     .hh{
         margin-top:-21%;
@@ -343,7 +352,7 @@ display:none
  
 @media screen and (max-width:500px){
     .hh1{
-        margin-top:-28%;
+        margin-top:-22%;
     }
     .hh{
         margin-top:-30%;
@@ -357,14 +366,13 @@ display:none
     .footer1 .heads{
         margin-left:3%;
     }
-  
 }
 @media screen and (max-width:450px){
     .hh1{
-        margin-top:-33%;  margin-left:53%;
+        margin-top:-26%;  margin-left:48%;
     }
     .hh{
-        margin-top:-35%;margin-left:-4%;
+        margin-top:-35%;margin-left:-8%;
     } 
     .footer1 .para2{
         margin-left:3%;
@@ -374,14 +382,16 @@ display:none
     }
     .footer1 .heads{
         margin-left:3%;
+    }.footer{
+        width: 150%;
     }
   
 }@media screen and (max-width:380px){
     .hh1{
-        margin-top:-33%;  margin-left:63%;
+        margin-top:-28%;  margin-left:40%;
     }
     .hh{
-        margin-top:-47%;margin-left:-4%;
+        margin-top:-40%;margin-left:-12%;
     } 
     .footer1 .para2{
         margin-left:3%;

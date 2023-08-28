@@ -6,7 +6,7 @@ import {FaLinkedin,FaInstagramSquare} from "react-icons/fa";
 const Footer = () =>{
     return(
         
-      <div className="footer" style={{backgroundImage:`url(${background})`,width:"100%",height:"490px"}} >
+      <div className="footer" style={{backgroundImage:`url(${background})`,width:"120%",height:"490px"}} >
     
 <div className="head8" >
    <h1 className="head" style={{color:"grey",fontSize:"2px"}}>It's Time to Pull in a

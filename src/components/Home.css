@@ -110,4 +110,24 @@
   .arrows path.a3 { 
     animation-delay:0s;
     -webkit-animation-delay:0s;}
+    @media screen and (max-width:1380px) { 
   
+  
+      .arrows {
+        width: 60px;
+        height: 72px;
+        position: absolute;
+        left: 80%;
+        margin-left: 80px;
+        bottom: 700px;
+      }} @media screen and (max-width:800px) { 
+  
+  
+        .arrows {
+          width: 60px;
+          height: 72px;
+          position: absolute;
+          left: 80%;
+          margin-left: 40px;
+          bottom: 700px;
+        }}

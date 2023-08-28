@@ -72,7 +72,6 @@ return(
 <div className="side">
     <p className="sidep">REVIEWS</p>
     <h1 className="sideh">They talk about us</h1>
-    <button className='p4' style={{   padding:"15px 0 15px 0",marginLeft:"1%",width:"5%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}>More About Us</button>
 </div></div>
 
        </div>

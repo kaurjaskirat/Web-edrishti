@@ -65,16 +65,20 @@ return(
     <Slider {...settings} >
     <div className="s1">
         <h1 className="s11">"</h1>
-      <p>loremt, and publishing industries for previewing layouts and visual mockups</p>
+      <p className="p11">E-DRISHTI is introducing new educational and cost-effective techniques to teach visually impaired people. It has a huge market scope.</p>
+      <p className="p111">~ Pranav Desai,Founder of VOSAP</p>
     </div>
     <div className="s2"> <h1 className="s22">"</h1>
-    <p>loremt, and publishing industries for previewing layouts and visual mockups</p>
+    <p className="p22">E-DRISHTI is building a device for helping visually impaired people, thus, giving their life a new direction with lots of career opportunities.</p>
+      <p className="p222">~ K.N. Shashi,President of Sai Netrheen Sewa Sanstha</p>
     </div>
     <div className="s3"> <h1 className="s33">"</h1>
-    <p>loremt, and publishing industries for previewing layouts and visual mockups</p>
+    <p className="p22">It is easy to understand shapes and geometry using the device made by team E-DRISHTI than using braille for STEM and learning shapes.</p>
+      <p className="p222">~ Dhaninjay,Visually Impaired person at NGO</p>
     </div>
     <div className="s4"> <h1 className="s44">"</h1>
-    <p>loremt, and publishing industries for previewing layouts and visual mockups</p>  
+    <p className="p22">It is easy to understand shapes and geometry using the device made by team E-DRISHTI than using braille for STEM and learning shapes.</p>
+      <p className="p222">~ Dhaninjay,Visually Impaired person at NGO</p>  
     </div>
    
   </Slider>

@@ -28,7 +28,7 @@ window.addEventListener('resize',changeWidth)
                           
         <p style={{marginLeft:"-103%",fontSize:"200%"}}className='logo'>eDrishti</p>
                 <li className='items' style={{marginLeft:"25%"}}>Home</li>
-                <li className='items'>About</li>
+                <li className='items'><a href ="#about">About</a></li>
                 {/* <li className='items'><a href ="#skills">Skills</a></li>
                 <li className='items'><a href ="#work">Work</a></li> */}
                 <li className='items' style={{marginRight:"25%"}}><a href ="./Contact">Contact</a></li>

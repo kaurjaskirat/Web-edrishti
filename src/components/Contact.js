@@ -16,14 +16,14 @@ return(
         
     <div className='Contact ' style={{marginBottom:"25%"}}>
       
-      <img src={background} alt="this is car image" style={{height:"180px",width:"100%",opacity:"0.5"}}/>
+      <img src={background} alt="this is car image" style={{height:"180px",width:"120%",opacity:"0.5"}}/>
       
  
       <p style={{color:"orange",marginLeft:"-67%",marginTop:"5%",}}>CONTACT</p>
       
  <GoMail style={{color:"orange",marginLeft:"5",marginTop:"-65%",fontSize:"50px"}}/><p style={{marginLeft:"13%",marginTop:"-2%"}}>gamilbbbbbb</p>
- <div style={{marginTop:"-2%"}}><BsTelephonePlus style={{color:"orange",marginLeft:"40%",marginTop:"-05%",fontSize:"50px"}}/>     <p style={{marginLeft:"53%",marginTop:"-2%"}}>456789999</p></div>
- <h1  style={{marginLeft:"-60%",marginTop:"-2%",fontSize:"40px"}}>Get in touch</h1>
+ <div className="conp" style={{marginTop:"-2%"}}><BsTelephonePlus  style={{color:"orange",marginLeft:"40%",marginTop:"-5%",fontSize:"50px"}}/>     <p className=".conpp" style={{marginLeft:"53%",marginTop:"-2%"}}>456789999</p></div>
+ <h1 className="ch" style={{marginTop:"-2%",fontSize:"40px"}}>Get in touch</h1>
 
  <form style={{marginTop:"14%"}}className='contact__form'>
                     <div className='contact__form-div'>
@@ -42,8 +42,8 @@ return(
                  
                     </div>
                     <div className='contact__form-div'style={{marginTop:"-10%"}}>
-                        <p style={{  marginLeft:"-45%",marginTop:"15%",color:"grey"}}>*We promise not to disclose your personal information to third party</p>
-                        <button style={{  padding:"35px 0 25px 0",marginLeft:"65%",marginTop:"-27%",width:"15%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none",fontFamily:" Georgia, 'Times New Roman', Times, serif"}}>SEND MESSAGE</button>
+                        <p className="cp" style={{  marginLeft:"-45%",marginTop:"15%",color:"grey"}}>*We promise not to disclose your personal information to third party</p>
+                        <button className='cb' style={{  padding:"35px 0 25px 0",marginLeft:"40%",marginTop:"-27%",width:"15%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none",fontFamily:" Georgia, 'Times New Roman', Times, serif"}}>SEND MESSAGE</button>
                         </div>  </form>
       </div>
       </div>
