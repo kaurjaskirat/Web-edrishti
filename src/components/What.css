@@ -1,8 +1,8 @@
 .imag img {
     width: 35%;
     height: 500px;
-    margin-left: -48%;
-    margin-top: -5%
+    margin-left: -55%;
+    margin-top: -5%;border-radius: 2%;
 }
 
 .paraa {
@@ -737,7 +737,7 @@
 @media screen and (max-width:400px) {
     .imag img {
         width: 78%;
-        height: 460px;
+        height: 400px;
         margin-left: -3%;
         margin-top: -130%
     }

@@ -43,7 +43,7 @@ return(
                     </div>
                     <div className='contact__form-div'style={{marginTop:"-10%"}}>
                         <p className="cp" style={{  marginLeft:"-45%",marginTop:"15%",color:"grey"}}>*We promise not to disclose your personal information to third party</p>
-                        <button className='cb' style={{  padding:"35px 0 25px 0",marginLeft:"40%",marginTop:"-27%",width:"15%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none",fontFamily:" Georgia, 'Times New Roman', Times, serif"}}>SEND MESSAGE</button>
+                        <button className='cb' style={{  padding:"35px 20px 25px 20px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none",fontFamily:" Georgia, 'Times New Roman', Times, serif"}}>SEND MESSAGE</button>
                         </div>  </form>
       </div>
       </div>
