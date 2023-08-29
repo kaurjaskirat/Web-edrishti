@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
 import Moreabout from './components/Moreabout';
-import Features from './components/Features';
+// import Features from './components/Features';
 import What from './components/What';
 import Team from './components/Team';
 import Achievement from './components/Achievement';
@@ -22,7 +22,7 @@ function App() {
    
    <Routes>
    <Route path='moreabout' element ={<Moreabout/>}></Route></Routes>
-   <Features/>
+   {/* <Features/> */}
    <What/>
    {/* <SimpleSlider/> */}
    <Team/>
