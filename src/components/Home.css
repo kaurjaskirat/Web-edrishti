@@ -63,7 +63,15 @@
   }
   
   
-  
+  .hicon{
+    margin-top: 45%;
+    margin-left: 95%;
+    font-size: xx-large;
+    position: fixed;
+  }  .hicon1{
+    margin-top: -5%;
+    font-size: 2px;
+  }
   
   .arrows {
     width: 60px;
@@ -165,4 +173,13 @@
               margin-left:-15%;
               border-radius: 1%;
             }
+            }
+            @media screen and (max-width:1400px) { 
+              .hicon{
+                margin-left: 4%;
+              }
+            }    @media screen and (max-width:500px) { 
+              .hicon{
+                margin-left: 4%;
+              }
             }

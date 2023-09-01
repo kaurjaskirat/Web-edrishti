@@ -10,7 +10,7 @@ return(
        <img src={bg6} alt="this is car image" /></div> */}
      
 <p className='ap'>ACHIEVEMENTS</p>
-
+<div className='abpara'>"These achievements fuel our commitment to accessible education. At E-Drishti, every recognition drives positive change."</div>
 
       
 {/* <div className='aimag'>

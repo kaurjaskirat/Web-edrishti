@@ -497,7 +497,10 @@
         margin-top: -32%;
         transition: transform .2s
     }
-
+ .abpara{
+    margin-top: -1%;
+    width: 85%;
+ }
     .ac9 {
         width: 27%;
         height: 350px;
@@ -1337,7 +1340,7 @@
         height: 370px;
         background-color: rgb(222, 216, 216);
         margin-left: 20%;
-        margin-top: 3%;
+        margin-top: 8%;
         transition: transform .2s
     }
 
@@ -1378,7 +1381,10 @@
     }
 
 }
-
+.abpara{
+    margin-left: 3%;
+    font-weight: bold;
+}
 @media screen and (max-width:395px) {
     .container11 {
         width: 100%;

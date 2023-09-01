@@ -12,7 +12,7 @@ return(
         {/* <Navbar/>   */}
 
 
-
+        <div id='contact'>
         
     <div className='Contact ' style={{marginBottom:"25%"}}>
       
@@ -46,7 +46,7 @@ return(
                         <button className='cb' style={{  padding:"35px 20px 25px 20px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none",fontFamily:" Georgia, 'Times New Roman', Times, serif"}}>SEND MESSAGE</button>
                         </div>  </form>
       </div>
-      </div>
+      </div></div>
 )
 }
 export default Contact;

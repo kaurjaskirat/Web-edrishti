@@ -16,12 +16,12 @@ return(
 <p className='p1'>OUR STORY.</p>
 {/* <h1 className='p2'> do eiusmod tempor incididunt .
 </h1> */}
-<p className='p31'>In the heart of Delhi, Shyam Kishore, himself visually impaired, shines as a massage trainer at the Blind Relief Association. This Delhi-based NGO is tirelessly dedicated to empowering those with visual impairments. With an unwavering commitment, Shyam's students grasp the foundation of Braille, gaining the ability to read and write alphabets. Their aspirations, however, stretch beyond basic literacy. These aspiring professional masseurs, most with high school education, not only hone their vocational skills but also harbor an ardent desire to master Braille. This tactile language serves as a profound means of communication for them.</p>
-<p className='p32'>The history of Braille in India reaches back to the nation's independence, when the government aimed to forge a standardized Braille code for Indian languages. From this aspiration, "Bharati Braille" emerged, a phonetics-based system that emphasizes sound representation.</p>
+<p className='p31'>
+Our story is one of determination, innovation, and empowerment. Braille, an invaluable medium for the visually impaired, faces recognition challenges in mainstream education. While audio formats prevail, the scarcity of accessible learning materials, particularly in complex subjects like science and commerce, presents a pressing issue. Our journey at E-Drishti is fueled by these challenges and aspirations. We're committed to revolutionizing accessible education, empowering learners to conquer barriers in STEM fields. Despite Braille's challenges, its potential to shape an inclusive future knows no bounds.</p>
 
 
 
-<button className='p4' style={{   padding:"35px 0 25px 0",marginLeft:"-45%",marginTop:"1%",width:"15%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}><Link to='/moreabout'>More About Us</Link></button>
+<button className='p4' style={{  padding:"25px 15px 25px 15px",marginLeft:"-45%",marginTop:"1%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}><Link to='/moreabout'>More About Us</Link></button>
        </div>
        </div>
   

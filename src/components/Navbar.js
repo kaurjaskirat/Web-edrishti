@@ -27,11 +27,11 @@ window.addEventListener('resize',changeWidth)
             <ul className='list'>
                           
         <p style={{marginLeft:"-193%",fontSize:"200%"}}className='logo'>eDrishti</p>
-                <li className='items' style={{marginLeft:"15%"}}>Home</li>
+                <li className='items' style={{marginLeft:"15%"}}><a href ="#home">Home</a></li>
                 <li className='items'><a href ="#about">About</a></li>
                 {/* <li className='items'><a href ="#skills">Skills</a></li>
                 <li className='items'><a href ="#work">Work</a></li> */}
-                <li className='items' style={{marginRight:"25%"}}><a href ="./Contact">Contact</a></li>
+                <li className='items' style={{marginRight:"25%"}}><a href ="#contact">Contact</a></li>
                 <FaLinkedin style={{color:"white",fontSize:"150%",marginRight:"10%"}} className='icon1' />
                 <FaInstagramSquare style={{color:"white",fontSize:"150%",marginRight:"-185%"}} className='icon2'  />
             </ul>)}
