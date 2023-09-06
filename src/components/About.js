@@ -1,5 +1,6 @@
 import React from 'react';
 import bg6 from './images/bg6.jpg';
+import about from './images/about (2).png';
 import{Link} from 'react-router-dom';
 
 import './About.css';
@@ -11,7 +12,7 @@ return(
       <div className='image3' >
        <img src={bg6} alt="this is car image" /></div>
        <div className='image4' >
-       <img src={bg6} alt="this is car image" /></div>
+       <img src={about} alt="this is car image" /></div>
       
 <p className='p1'>OUR STORY.</p>
 {/* <h1 className='p2'> do eiusmod tempor incididunt .
@@ -21,7 +22,7 @@ Our story is one of determination, innovation, and empowerment. Braille, an inva
 
 
 
-<button className='p4' style={{  padding:"25px 15px 25px 15px",marginLeft:"-45%",marginTop:"1%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}><Link to='/moreabout'>More About Us</Link></button>
+<button className='p4' style={{ fontStyle: "Outfit,sans-serif", padding:"25px 35px 25px 35px",marginLeft:"-45%",marginTop:"1%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}><Link to='/moreabout' style={{textDecoration:"none", color:"black" }}>MORE ABOUT US</Link></button>
        </div>
        </div>
   

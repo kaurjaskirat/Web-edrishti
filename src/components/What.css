@@ -2,80 +2,79 @@
     width: 35%;
     height: 500px;
     margin-left: -55%;
-    margin-top: -5%;border-radius: 2%;
+    margin-top: -10%;border-radius: 2%;
 }
 
 .paraa {
-    margin-top: -40%;
-    margin-left: 5%;
-    color: orange;
-    font-size: 25px;
-    font-weight: bold;
+    margin-top: -30%;
+    margin-left: 20%;
+    color: orange;   font-style: sans-serif;
+    font-size: 40px;
 }
 
 .paraa2 {
-    margin-left: 48%;
+    margin-left: 57%;   font-style: sans-serif;
 }
 
 .new1 {
-    margin-left: -85%;
+    margin-left: -85%;   font-style: sans-serif;
 
 
 }
 
 .new2 {
-    margin-left: -90%;
+    margin-left: -91%;   font-style: sans-serif;
 }
 
-.new3 {
-    margin-left: -92%;
+.new3 {   font-style: sans-serif;
+    margin-left: -94%;
 }
 
 .new4 {
-    margin-left: -83%;
+    margin-left: -82%;   font-style: sans-serif;
 }
 
 .new5 {
-    margin-left: -92%;
+    margin-left: -93%;   font-style: sans-serif;
 }
 
 .new6 {
-    margin-left: -86%;
+    margin-left: -86%;   font-style: sans-serif;
 }
 
-.paraa21 {
+.paraa21 {   font-style: sans-serif;
     margin-top: -2%;
     text-align: start;
     margin-left: -6.5%;
 }
 
-.paraa22 {
+.paraa22 {   font-style: sans-serif;
     margin-top: -2%;
     text-align: start;
     margin-left: -6.5%;
 }
 
-.paraa23 {
+.paraa23 {   font-style: sans-serif;
     margin-top: -2%;
     text-align: start;
     margin-left: -6.5%;
 }
 
 .paraa24 {
-    margin-top: -2%;
+    margin-top: -2%;   font-style: sans-serif;
     text-align: start;
     margin-left: -6.5%;
 }
 
 .paraa25 {
     margin-top: -2%;
-    text-align: start;
+    text-align: start;   font-style: sans-serif;
     margin-left: -6.5%;
 }
 
 .paraa26 {
     margin-top: -2%;
-    text-align: start;
+    text-align: start;   font-style: sans-serif;
     margin-left: -6.5%;
 }
 

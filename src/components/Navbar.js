@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import {FaLinkedin,FaInstagramSquare} from "react-icons/fa";
 import './Navbar.css';
+import drishtif from './images/drishtif.png';
 
 const Navbar = () => {
   const [toggleMenu,setToggleMenu]=useState(false)
@@ -20,13 +21,14 @@ window.addEventListener('resize',changeWidth)
 
 
     <div className='container'>
-      
+    
         <nav>
-       
+     
           {(toggleMenu || screenWidth>600) && (
             <ul className='list'>
-                          
-        <p style={{marginLeft:"-193%",fontSize:"200%"}}className='logo'>eDrishti</p>
+                             
+        <p style={{marginLeft:"-198%",fontSize:"0.5%",marginTop:"-3%"}}className='logo'>    <div className='imagenav' >
+       <img src={drishtif} alt="this is car image" /></div> <div className='nap'>eDrishti</div></p>
                 <li className='items' style={{marginLeft:"15%"}}><a href ="#home">Home</a></li>
                 <li className='items'><a href ="#about">About</a></li>
                 {/* <li className='items'><a href ="#skills">Skills</a></li>

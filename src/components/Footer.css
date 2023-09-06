@@ -503,3 +503,14 @@
 .back1 .backp {
     margin-top: 6%;
 }
+
+
+.imagefooter img{
+    width: 85px;
+    height: 200px;
+    margin-left: -60%;
+    margin-top: -5%;
+}
+.head2{
+    margin-top: -12%;
+}

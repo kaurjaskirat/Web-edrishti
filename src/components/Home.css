@@ -64,7 +64,7 @@
   
   
   .hicon{
-    margin-top: 45%;
+    margin-top: 13%;
     margin-left: 95%;
     font-size: xx-large;
     position: fixed;
@@ -89,7 +89,26 @@
     animation: arrow 2s infinite;
     -webkit-animation: arrow 2s infinite; 
   }
+  .homehead{
+    margin-top: 15%;
+    font-size: 60px;
+    margin-left: -60%;
+    color: white;
+  }
+  .homehead2{
+    font-size: 60px;
+    margin-top: -7%; margin-left: -22%;
+    color: orange;
+  } .homehead3{
+    font-size: 60px;
+    color: white;    margin-left: -45%;
+  } 
   
+  .homehead1{
+    margin-top: -1%;
+    font-size: 1px;
+  }
+
   @keyframes arrow
   {
   0% {opacity:0}
@@ -181,5 +200,6 @@
             }    @media screen and (max-width:500px) { 
               .hicon{
                 margin-left: 4%;
+                margin-top: 150%;
               }
             }

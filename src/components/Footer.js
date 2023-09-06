@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import background from './images/background.jpeg';
+import background from './images/background.jpeg';import drishtif from './images/drishtif.png';
 import {FaLinkedin,FaInstagramSquare} from "react-icons/fa";
 // import {FaLinkedin,FaGithubSquare,FaInstagramSquare,FaMailBulk,FaTelegramPlane ,FaFacebook} from "react-icons/fa";
 const Footer = () =>{
@@ -15,7 +15,8 @@ const Footer = () =>{
    <div className="footer1" >
    <h1 className="heads">It's Time to Pull in a</h1>
     <p className="para" >Professional</p>
-   <p className="para2">Adipiscing elit consequuntur odit accusamus,aspernlo</p></div>
+   </div>   <div className='imagefooter' >
+       <img src={drishtif} alt="this is car image" /></div> 
 
 
   <h3 className="head2" style={{color:"white"}}>Menu   </h3> <div className="para4">
