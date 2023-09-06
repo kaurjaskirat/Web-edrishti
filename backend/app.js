@@ -25,6 +25,6 @@ app.use(express.json());
 const contactRouter=require('./routes/contacts')
 app.use('/contacts',contactRouter)
 
-app.listen(9003,function(){
+app.listen(process.env.PORT,function(){
     console.log('server started')
 })
