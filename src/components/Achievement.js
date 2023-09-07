@@ -17,15 +17,7 @@ return(
 <div className='abpara'>"These achievements fuel our commitment to accessible education. At E-Drishti, every recognition drives positive change."</div>
 
       
-{/* <div className='aimag'>
-    <div className='pic1'><img src={bg6} alt="this is car image" /></div>
-</div>
-<div className='aimag2'>
-    <div className='pic1'><img src={bg6} alt="this is car image" /></div>
-</div>
-<div className='aimag3'>
-    <div className='pic1'><img src={bg6} alt="this is car image" /></div>
-</div> */}
+
    <div className="container11">
 <div className='ac1'>
     <div className='acp1'><img src={bg6} alt="this is car image" /></div>

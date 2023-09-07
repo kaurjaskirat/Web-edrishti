@@ -40,7 +40,7 @@ const Footer = () =>{
    <div className='icon1'>
    <FaLinkedin style={{marginLeft:"58%",color:"white",fontSize:"26px"}} /></div>
    <div style={{marginTop:"-2%"}} className="icon2">
-                <FaInstagramSquare style={{marginLeft:"63%",color:"white",fontSize:"26px"}}/></div>
+                <FaInstagramSquare style={{marginLeft:"63%",color:"white",fontSize:"26px",marginTop:"0.3%"}}/></div>
 
 <div className='back'>
 <p  className='backp'style={{fontSize:"0px"}}>© 2023 eDrishti</p>

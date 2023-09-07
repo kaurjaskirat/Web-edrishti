@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const app=express()
 
-// mongoose.set('strictQuery', true);
+mongoose.set('strictQuery', true);
 mongoose.connect( process.env.MONGODB,{
     useNewUrlParser:true,
     useUnifiedTopology:true
