@@ -196,6 +196,562 @@
     text-align: start; text-align: center;
 }
 
+
+
+
+@media screen and (max-width:1550px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+   
+}
+
+
+@media screen and (max-width:1530px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23%;
+        transition: transform .2s
+    }
+
+   
+}
+
+
+@media screen and (max-width:1551px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22.5%;
+        transition: transform .2s
+    }
+
+   
+}
+
+@media screen and (max-width:1500px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+   
+}
+
+
+@media screen and (max-width:1581px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+   
+}
+
+@media screen and (max-width:1601px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -22%;
+        transition: transform .2s
+    }
+
+   
+}
+@media screen and (max-width:1651px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -21.2%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -21.2%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -21.2%; 
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -21.2%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -21.2%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -21.2%;
+        transition: transform .2s
+    }
+
+   
+}
+
+@media screen and (max-width:1701px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -20.5%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -20.5%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -20.5%; 
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -20.5%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -20.5%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -20.5%;
+        transition: transform .2s
+    }
+
+   
+}
+
+@media screen and (max-width:1450px) {
+    .ac9 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+    .ac6 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+    .ac3 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 65%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+    
+    .ac2 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+    
+
+    .ac5 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+    .ac8 {
+        width: 25%;
+        height: 350px;
+        background-color: rgb(222, 216, 216);
+        margin-left: 39%;
+        margin-top: -24%;
+        transition: transform .2s
+    }
+
+   
+}
+
+
+
 @media screen and (max-width:1430px) {
     .ac9 {
         width: 25%;
