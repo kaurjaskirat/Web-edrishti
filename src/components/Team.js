@@ -91,11 +91,11 @@ return(
        
        <div className='Video' style={{marginBottom:"40%",backgroundColor:"rgb(222, 216, 216)",marginTop:"30%"}}>
     
-    {/* <ReactPlayer
-            url='https://www.youtube.com/watch?v=RGKi6LSPDLU'
+     <ReactPlayer
+            url='https://drive.google.com/file/d/1SGgTurlgwZcI__6tFCKABuAAuN6q4KzF/view?usp=drive_link'
             height='470px'
             width='100%'
-            controls className="video2"/> */}
+            controls className="video2"/> 
 {/* 
 <div className="vid">
     <h1>hi</h1>

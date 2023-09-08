@@ -339,6 +339,49 @@
     margin-top: -4%;
 }
 
+
+
+@media screen and (max-width:1500px) {
+    .card2 {
+        width: 20%;
+        height: 350px;
+        background-color: white;
+        margin-left: 38%;
+        margin-top: -23.5%;
+        transition: transform .2s
+    }
+
+    .card3 {
+        width: 20%;
+        height: 350px;
+        background-color: white;
+        margin-left: 63%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+
+    .card5 {
+        width: 20%;
+        height: 350px;
+        background-color: white;
+        margin-left: 38%;
+        margin-top: -23.5%;
+        transition: transform .2s
+    }
+
+    .card6 {
+        width: 20%;
+        height: 350px;
+        background-color: white;
+        margin-left: 63%;
+        margin-top: -23.2%;
+        transition: transform .2s
+    }
+}
+
+
+
+
 @media screen and (max-width:1400px) {
     .card2 {
         width: 20%;

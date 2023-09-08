@@ -6,7 +6,7 @@ import {FaLinkedin,FaInstagramSquare} from "react-icons/fa";
 const Footer = () =>{
     return(
         
-      <div className="footer" style={{backgroundImage:`url(${background})`,width:"120%",height:"490px"}} >
+      <div className="footer" style={{backgroundImage:`url(${background})`,width:"120%",height:"495px",marginTop:"15%"}} >
     
 <div className="head8" >
    <h1 className="head" style={{color:"grey",fontSize:"2px"}}>It's Time to Pull in a
@@ -42,7 +42,7 @@ const Footer = () =>{
    <div style={{marginTop:"-2%"}} className="icon2">
                 <FaInstagramSquare style={{marginLeft:"63%",color:"white",fontSize:"26px",marginTop:"0.3%"}}/></div>
 
-<div className='back'>
+<div className='back'  >
 <p  className='backp'style={{fontSize:"0px"}}>© 2023 eDrishti</p>
   <p  className='backp'>© 2023 eDrishti</p>
 </div>
