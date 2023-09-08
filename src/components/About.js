@@ -21,9 +21,8 @@ return(
 Our story is one of determination, innovation, and empowerment. Braille, an invaluable medium for the visually impaired, faces recognition challenges in mainstream education. While audio formats prevail, the scarcity of accessible learning materials, particularly in complex subjects like science and commerce, presents a pressing issue. Our journey at E-Drishti is fueled by these challenges and aspirations. We're committed to revolutionizing accessible education, empowering learners to conquer barriers in STEM fields. Despite Braille's challenges, its potential to shape an inclusive future knows no bounds.</p>
 
 
-
 <button className='p4' style={{ fontStyle: "Outfit,sans-serif", padding:"25px 35px 25px 35px",marginLeft:"-45%",marginTop:"1%",fontSize:"90%",backgroundColor:"orange",color:"black",border:"none"}}><Link to='/moreabout' style={{textDecoration:"none", color:"black" }}>MORE ABOUT US</Link></button>
-       </div>
+</div>
        </div>
   
 )

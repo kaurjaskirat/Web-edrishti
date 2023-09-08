@@ -1,12 +1,52 @@
-import React from 'react';
-// import Navbar from './components/Navbar';
 
-
+import React,{useState} from 'react';
+import axios from 'axios';
 import './Contact.css';
 import background from './images/background.jpeg';
 import {GoMail} from "react-icons/go";
 import {BsTelephonePlus} from "react-icons/bs";
+
+
+
 const Contact = () => {
+
+
+    const[name,setName]=useState('')
+    const[email,setEmail]=useState('')
+    const[message,setMessage]=useState('');
+
+const handleName=(e)=>{
+    setName(e.target.value);
+}
+
+const handleEmail=(e)=>{
+    setEmail(e.target.value);
+}
+const handleMessage=(e)=>{
+    setMessage(e.target.value);
+}
+
+    const handleClick=()=>{console.log({name,email,message});
+        
+            axios.post('https://contact-hg14.onrender.com/contacts',{
+        name:name,
+        email:email,
+        message:message
+        })
+        .then(res=>{ console.log(res)
+            alert('successfully registered')
+            })
+            .catch(error=>{
+                console.log(error)
+            })
+        
+       
+        
+        
+        }
+            
+
+
 return(
     <div>
         {/* <Navbar/>   */}
@@ -29,21 +69,21 @@ return(
                     <div className='contact__form-div'>
                      
                         <label className='contact__form-tag' style={{marginLeft:"-73%",fontSize:"15px",marginBottom:"-30%",fontStyle: "sans-serif"}}>NAME</label>
-                     <div className='tag'> <input type='text' name='name' className='contact__form-input' /></div> 
+                     <div className='tag'> <input type='text'  placeholder='name'  className='contact__form-input' value={name} onChange={handleName} /></div> 
                     </div>
                     <div className='contact__form-div'style={{marginTop:"-4%"}}>
                         <label className='contact__form-tag1'style={{marginLeft:"17%",fontSize:"15px",marginBottom:"-30%",fontStyle: "sans-serif"}}>MAIL⋆</label>
-                        <div className='tag1'>  <input type='email' name='email' className='contact__form-input1'  /></div>
+                        <div className='tag1'>  <input type='email' placeholder='email' className='contact__form-input1' value={email} onChange={handleEmail}  /></div>
                       
                     </div>
                     <div className='contact_form-div-contact_form-area'style={{marginTop:"6%"}}>
                         <label className='contact__form-tag2'style={{marginLeft:"-73%",fontSize:"15px",fontStyle: "sans-serif"}}>MESSAGE</label>
-                        <div className='tag2'>   <textarea name='project' cols='10' rows='6' className='contact__form-input2'  /></div>
+                        <div className='tag2'>   <textarea name='project'  cols='10' rows='6'  className='contact__form-input2' value={message} onChange={handleMessage}  /></div>
                  
                     </div>
                     <div className='contact__form-div'style={{marginTop:"-10%"}}>
                         <p className="cp" style={{  marginLeft:"-45%",marginTop:"15%",color:"grey",fontStyle: "sans-serif"}}>*We promise not to disclose your personal information to third party</p>
-                        <button className='cb' style={{  padding:"35px 20px 25px 20px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"rgb(57, 57, 57)",border:"none",fontStyle: "Outfit,sans-serif"}}>SEND MESSAGE</button>
+                        <button className='cb' style={{  padding:"35px 20px 25px 20px",marginLeft:"40%",marginTop:"-27%",fontSize:"90%",backgroundColor:"orange",color:"rgb(57, 57, 57)",border:"none",fontStyle: "Outfit,sans-serif"}}  onClick={handleClick}  >SEND MESSAGE</button>
                         </div>  </form>
       </div>
       </div></div>
